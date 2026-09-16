@@ -2,6 +2,11 @@
 
 All notable changes to RoboStux's `.github` organization repository are documented here.
 
+## v1.0.3
+
+### Changed
+- `README.md`, `CONTRIBUTING.md`, and `profile/README.md`'s logo URL migrated from `media.robo.st/global/logo.png` to `global.media.robo.st/logo.png`, matching the CDN subdomain convention used elsewhere in the Stux.Group family.
+
 ## v1.0.2
 
 ### Added
