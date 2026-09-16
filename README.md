@@ -25,6 +25,8 @@ Repository: https://github.com/RoboStux/.github
 | [Lavalink](https://github.com/RoboStux/Lavalink) | A Lavalink client library for Python (AsyncIO) |
 | [Update](https://github.com/RoboStux/Update) | A wrapper that lets RoboStux-Bot update itself while running |
 | [Website](https://github.com/RoboStux/Website) | Source for robo.st |
+| [Index](https://github.com/RoboStux/Index) | Auto-indexer of repositories and cogs |
+| [Status](https://github.com/RoboStux/Status) | Uptime monitor and status page |
 
 ---
 

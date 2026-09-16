@@ -2,6 +2,11 @@
 
 All notable changes to RoboStux's `.github` organization repository are documented here.
 
+## v1.0.2
+
+### Added
+- Repositories table gained Index (auto-indexer) and Status (uptime monitor), both newly added to the `RoboStux` org.
+
 ## v1.0.1
 
 ### Fixed
