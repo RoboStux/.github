@@ -6,11 +6,11 @@
 
 RoboStux is split across five repos, each with its own `CONTRIBUTING.md`:
 
-- **[RoboStux-Bot](https://github.com/StuxieDev/RoboStux-Bot)** - the Discord bot itself
-- **[RoboStux-Commons](https://github.com/StuxieDev/RoboStux-Commons)** - shared utilities
-- **[RoboStux-Lavalink](https://github.com/StuxieDev/RoboStux-Lavalink)** - the Lavalink client library
-- **[RoboStux-Update](https://github.com/StuxieDev/RoboStux-Update)** - the self-update wrapper
-- **[RoboStux-Website](https://github.com/StuxieDev/RoboStux-Website)** - source for robo.st
+- **[Bot](https://github.com/RoboStux/Bot)** - the Discord bot itself
+- **[Commons](https://github.com/RoboStux/Commons)** - shared utilities
+- **[Lavalink](https://github.com/RoboStux/Lavalink)** - the Lavalink client library
+- **[Update](https://github.com/RoboStux/Update)** - the self-update wrapper
+- **[Website](https://github.com/RoboStux/Website)** - source for robo.st
 
 Open your issue or PR on whichever of those the change actually belongs to.
 This `.github` repo itself holds only the org profile

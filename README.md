@@ -20,11 +20,11 @@ Repository: https://github.com/RoboStux/.github
 
 | Repo | Description |
 |------|-------------|
-| [RoboStux-Bot](https://github.com/StuxieDev/RoboStux-Bot) | Music, moderation, trivia, and stream alerts — fully modular |
-| [RoboStux-Commons](https://github.com/StuxieDev/RoboStux-Commons) | Common utilities shared across RoboStux's projects |
-| [RoboStux-Lavalink](https://github.com/StuxieDev/RoboStux-Lavalink) | A Lavalink client library for Python (AsyncIO) |
-| [RoboStux-Update](https://github.com/StuxieDev/RoboStux-Update) | A wrapper that lets RoboStux-Bot update itself while running |
-| [RoboStux-Website](https://github.com/StuxieDev/RoboStux-Website) | Source for robo.st |
+| [Bot](https://github.com/RoboStux/Bot) | Music, moderation, trivia, and stream alerts — fully modular |
+| [Commons](https://github.com/RoboStux/Commons) | Common utilities shared across RoboStux's projects |
+| [Lavalink](https://github.com/RoboStux/Lavalink) | A Lavalink client library for Python (AsyncIO) |
+| [Update](https://github.com/RoboStux/Update) | A wrapper that lets RoboStux-Bot update itself while running |
+| [Website](https://github.com/RoboStux/Website) | Source for robo.st |
 
 ---
 

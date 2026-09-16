@@ -2,6 +2,11 @@
 
 All notable changes to RoboStux's `.github` organization repository are documented here.
 
+## v1.0.1
+
+### Fixed
+- Repositories table linked to `github.com/StuxieDev/RoboStux-*` — corrected to `github.com/RoboStux/*` now that Bot, Commons, Lavalink, Update, and Website have moved into their own `RoboStux` GitHub org, and simplified their display names to match the new repo names (e.g. "Bot" instead of "RoboStux-Bot").
+
 ## v1.0.0
 
 ### Added
