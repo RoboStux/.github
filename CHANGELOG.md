@@ -2,6 +2,15 @@
 
 All notable changes to RoboStux's `.github` organization repository are documented here.
 
+## v1.0.4
+
+### Added
+- `generateMetrics.yml` workflow, matching every sibling org's `.github` repo — was missing entirely here, leaving `RoboStux/.github/metrics/stats.svg` broken wherever it's embedded.
+- An "Our Activity" `stats.svg` embed in `README.md` and `profile/README.md`.
+
+### Note
+- The workflow needs an org-level `METRICS_TOKEN` Actions secret to actually run — RoboStux's org currently has zero secrets configured. This needs to be added manually via GitHub org settings (Settings → Secrets and variables → Actions) before the workflow will succeed.
+
 ## v1.0.3
 
 ### Changed

@@ -28,6 +28,12 @@ Repository: https://github.com/RoboStux/.github
 | [Index](https://github.com/RoboStux/Index) | Auto-indexer of repositories and cogs |
 | [Status](https://github.com/RoboStux/Status) | Uptime monitor and status page |
 
+### Our Activity
+
+<div align="center">
+  <img width="512" src="https://raw.githubusercontent.com/RoboStux/.github/metrics/stats.svg">
+</div>
+
 ---
 
 *Written & Maintained by <img src="https://global.media.stuxie.dev/icon.png" height="14" alt="StuxieDev" valign="middle"> [StuxieDev](https://stuxie.dev).*
