@@ -1,0 +1,40 @@
+<p align="center">
+  <img src="https://global.media.robo.st/logo.png" width="300" alt="RoboStux">
+</p>
+
+# RoboStux .github
+
+### *One Bot, Multiple Features, Every Server!*
+
+GitHub organisation profile for [RoboStux](https://github.com/RoboStux).
+
+Website: https://robo.st  
+Repository: https://github.com/RoboStux/.github
+
+## Contents
+
+- **`profile/README.md`** — the public-facing organisation profile shown on
+  the [RoboStux organisation page](https://github.com/RoboStux) on GitHub.
+
+## Repositories
+
+| Repo | Description |
+|------|-------------|
+| [DiscordBot](https://github.com/RoboStux/DiscordBot) | Music, moderation, trivia, and stream alerts — fully modular |
+| [Commons](https://github.com/RoboStux/Commons) | Common utilities shared across RoboStux's projects |
+| [Lavalink](https://github.com/RoboStux/Lavalink) | A Lavalink client library for Python (AsyncIO) |
+| [Update](https://github.com/RoboStux/Update) | A wrapper that lets RoboStux-Bot update itself while running |
+| [Website](https://github.com/RoboStux/Website) | Source for robo.st |
+| [Status](https://github.com/RoboStux/Status) | Uptime monitor and status page |
+
+### Our Activity
+
+<div align="center">
+  <img width="512" src="https://raw.githubusercontent.com/RoboStux/.github/metrics/stats.svg">
+</div>
+
+---
+
+*Written & Maintained by <img src="https://global.media.stuxie.dev/icon.png" height="14" alt="StuxieDev" valign="middle"> [StuxieDev](https://stuxie.dev).*
+
+*[A StuxieDev Project](https://projects.stuxie.dev)*
