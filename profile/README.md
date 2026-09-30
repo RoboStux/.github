@@ -21,6 +21,15 @@ RoboStux is a fully modular Discord bot — music, moderation, trivia, and strea
 | [Website](https://github.com/RoboStux/Website) | Source for robo.st |
 | [Status](https://github.com/RoboStux/Status) | Uptime monitor and status page |
 
+## Service Status
+
+[![RoboStux status](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FRoboStux%2FStatus%2Fmain%2Fdata%2Fsummary.json&query=%24.status&label=status&style=for-the-badge)](https://status.robo.st)
+
+Live from [status.robo.st](https://status.robo.st), refreshed hourly by [GitHup](https://githup.stux.group).
+
+<!-- githup:start -->
+<!-- githup:end -->
+
 ## Connect with Us!
 
 [![Bluesky followers](https://img.shields.io/bluesky/followers/stuxie.dev?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/stuxie.dev)

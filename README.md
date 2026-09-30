@@ -14,7 +14,13 @@ Repository: https://github.com/RoboStux/.github
 ## Contents
 
 - **`profile/README.md`** — the public-facing organisation profile shown on
-  the [RoboStux organisation page](https://github.com/RoboStux) on GitHub.
+  the [RoboStux organisation page](https://github.com/RoboStux) on GitHub, including the
+  **Service Status** table between the `<!-- githup:start -->` / `<!-- githup:end -->`
+  markers (don't edit inside them).
+- **`.github/workflows/status.yml`** — hourly, checks out
+  [RoboStux/Status](https://github.com/RoboStux/Status) and runs
+  [GitHup](https://githup.stux.group)'s `readme` mode to refresh that table, committing as
+  `github-actions[bot]` only when it changed.
 
 ## Repositories
 
