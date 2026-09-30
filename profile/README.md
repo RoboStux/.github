@@ -28,6 +28,16 @@ RoboStux is a fully modular Discord bot — music, moderation, trivia, and strea
 Live from [status.robo.st](https://status.robo.st), refreshed hourly by [GitHup](https://githup.stux.group).
 
 <!-- githup:start -->
+<!-- This table is written by GitHup (https://github.com/StuxGroup/GitHup); edits here are overwritten. -->
+
+**All systems operational** · [Live status page](https://status.robo.st/)
+
+| Group | Monitor | Status | Uptime (24 h) | Uptime (7 d) | Uptime (30 d) | Response time (24 h) |
+| ----- | ------- | ------ | ------------- | ------------ | ------------- | -------------------- |
+| Web | [Website](https://robo.st) | Up | 100.00% | 100.00% | 100.00% | 1231 ms |
+| Web | [CDN](https://global.media.robo.st/logo.png) | Up | 100.00% | 100.00% | 100.00% | 744 ms |
+| Bot | [Node 1](https://node1.robo.st/) | Up | 100.00% | 100.00% | 100.00% | 598 ms |
+| Bot | [Bot](https://node1.robo.st/health) | Up | 100.00% | 100.00% | 100.00% | 598 ms |
 <!-- githup:end -->
 
 ## Connect with Us!
