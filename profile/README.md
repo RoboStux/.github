@@ -34,10 +34,10 @@ Live from [status.robo.st](https://status.robo.st), refreshed hourly by [GitHup]
 
 | Group | Monitor | Status | Uptime (24 h) | Uptime (7 d) | Uptime (30 d) | Response time (24 h) |
 | ----- | ------- | ------ | ------------- | ------------ | ------------- | -------------------- |
-| Web | [Website](https://robo.st) | Up | 100.00% | 100.00% | 100.00% | 666 ms |
-| Web | [CDN](https://global.media.robo.st/logo.png) | Up | 100.00% | 100.00% | 100.00% | 480 ms |
-| Bot | [Node 1](https://node1.robo.st/) | Up | 100.00% | 100.00% | 100.00% | 595 ms |
-| Bot | [Bot](https://node1.robo.st/health) | Up | 100.00% | 100.00% | 100.00% | 596 ms |
+| Web | [Website](https://robo.st) | Up | 100.00% | 100.00% | 100.00% | 610 ms |
+| Web | [CDN](https://global.media.robo.st/logo.png) | Up | 100.00% | 100.00% | 100.00% | 472 ms |
+| Bot | [Node 1](https://node1.robo.st/) | Up | 100.00% | 100.00% | 100.00% | 561 ms |
+| Bot | [Bot](https://node1.robo.st/health) | Up | 100.00% | 100.00% | 100.00% | 562 ms |
 <!-- githup:end -->
 
 ## Connect with Us!
