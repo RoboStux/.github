@@ -34,10 +34,10 @@ Live from [status.robo.st](https://status.robo.st), refreshed hourly by [GitHup]
 
 | Group | Monitor | Status | Uptime (24 h) | Uptime (7 d) | Uptime (30 d) | Response time (24 h) |
 | ----- | ------- | ------ | ------------- | ------------ | ------------- | -------------------- |
-| Web | [RoboStux Website](https://robo.st) | Up | 100.00% | 98.18% | 99.55% | 856 ms |
-| Web | [RoboStux CDN](https://global.media.robo.st/logo.png) | Up | 100.00% | 100.00% | 100.00% | 547 ms |
-| Bot | [RoboStux Node 1](https://node1.robo.st/) | Up | 100.00% | 100.00% | 100.00% | 688 ms |
-| Bot | [RoboStux Bot](https://node1.robo.st/health) | Up | 100.00% | 100.00% | 100.00% | 690 ms |
+| Web | [RoboStux Website](https://robo.st) | Up | 100.00% | 100.00% | 99.55% | 791 ms |
+| Web | [RoboStux CDN](https://global.media.robo.st/logo.png) | Up | 100.00% | 100.00% | 100.00% | 502 ms |
+| Bot | [RoboStux Node 1](https://node1.robo.st/) | Up | 100.00% | 100.00% | 100.00% | 661 ms |
+| Bot | [RoboStux Bot](https://node1.robo.st/health) | Up | 100.00% | 100.00% | 100.00% | 662 ms |
 <!-- githup:end -->
 
 ## Connect with Us!
