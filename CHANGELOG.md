@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 Each release lists its changes under Added, Changed, Fixed, Removed, Security and Deprecated, in that order. This
 project adheres to [Date Versioning](https://datevers.ing) since v26.10.23 (`YY.MM.DD`, the UTC release date, with `-1`, `-2`… for later releases the same day); earlier releases used [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## v26.11.27-1
+
+### Fixed
+
+- The FluxerBot row links to Fluxer at its current address, fluxer.com
+
 ## v26.11.27
 
 ### Added
