@@ -6,7 +6,7 @@
 
 ### *One Bot, Multiple Features, Every Server!*
 
-RoboStux is a fully modular Discord bot — music, moderation, trivia, and stream alerts, all in one.
+RoboStux is a free, fully modular bot for **Discord** and **[Fluxer](https://fluxer.com)**: music, moderation, AutoMod, logging, welcome cards, role menus, leveling, starboards, lockdowns and more, all in one.
 
 **[Website](https://robo.st)** · **[Add RoboStux to your server](https://robo.st/invite)** · **[Support server](https://robo.st/support)** · **[Status](https://status.robo.st)**
 
@@ -14,8 +14,8 @@ RoboStux is a fully modular Discord bot — music, moderation, trivia, and strea
 
 | Repo | Description |
 |------|-------------|
-| [DiscordBot](https://github.com/RoboStux/DiscordBot) | The RoboStux Discord bot: music, moderation, trivia and stream alerts, fully modular |
-| [FluxerBot](https://github.com/RoboStux/FluxerBot) | RoboStux for Fluxer: the RoboStux bot on [Fluxer](https://fluxer.com), in early development |
+| [DiscordBot](https://github.com/RoboStux/DiscordBot) | RoboStux for Discord: music, moderation, AutoMod, logging, leveling, trivia, stream alerts and more, fully modular |
+| [FluxerBot](https://github.com/RoboStux/FluxerBot) | RoboStux for Fluxer: the same RoboStux on [Fluxer](https://fluxer.com), with music, moderation, AutoMod, logging, leveling and more |
 | [Website](https://github.com/RoboStux/Website) | The RoboStux website, [robo.st](https://robo.st), and its staging copy, [proto.st](https://proto.st) |
 | [Status](https://github.com/RoboStux/Status) | RoboStux Status, [status.robo.st](https://status.robo.st): uptime monitor and status page, powered by [GitHup](https://githup.stux.group) |
 | [Commons](https://github.com/RoboStux/Commons) | Common utilities shared across RoboStux's projects |
